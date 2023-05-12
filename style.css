@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fff;
+}
+li{
+    list-style: none;
+}
+/*Navbar section*/
+.navbar-nav{
+    margin: auto;
+}
+.h-100{
+    margin-left: 15px;
+}
+/*Banner*/
+#texte{
+    background: linear-gradient(90deg, rgba(13, 66, 61, 0.9) -22.84%, rgba(12, 199, 181, 0.9) 138.88%),
+    linear-gradient(0deg, #E6E6E6, #E6E6E6);
+    border-radius: 10px;
+    margin-top: 100px;
+    padding-top: 100px;
+    margin-bottom: 20px;
+}
+#imageb{
+    background-image: url(back.jpg);
+    margin-top: 100px;
+    margin-left: 30px;
+    padding-right: 100px;
+    border-radius: 100%;
+}
+/*A propos*/
+/* #formation{
+    background: linear-gradient(90deg, rgba(13, 66, 61, 0.9) -22.84%, rgba(12, 199, 181, 0.9) 138.88%),
+    linear-gradient(0deg, #E6E6E6, #E6E6E6);
+} */
+/*Diplomes*/
+.diplome{
+    background-image: url(image/background\ red.png);
+}
+#ib{
+    position: relative;
+    bottom: 16px;
+    padding: 0;
+    
+}
+/*Carousel*/
+/*activites*/
+#acte{
+    width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    background-image: url(image/background\ red.png);
+}
+
+.decoration{
+    text-decoration: none;
+}
+/*Footer*/
+
+.Copyrite img{
+    padding-top: 200px !important;
+}
